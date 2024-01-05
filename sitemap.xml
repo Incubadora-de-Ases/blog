@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://incubadoradeases.cl/blog/es/sitemap.xml</loc>
-    
-      <lastmod>2019-06-04T21:55:06+01:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://incubadoradeases.cl/blog/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://incubadoradeases.cl/blog/about/</loc>
+    <lastmod>2019-06-17T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/</loc>
+    <lastmod>2019-06-04T21:55:06+01:00</lastmod>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/estudios/</loc>
+    <lastmod>2019-06-04T21:55:06+01:00</lastmod>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/search/placeholder/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/categories/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/estudios/como_estudiar/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/tags/estudios/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/categories/estudios/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/search/</loc>
+  </url><url>
+    <loc>https://incubadoradeases.cl/blog/tags/</loc>
+  </url>
+</urlset>
